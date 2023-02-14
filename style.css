@@ -1,0 +1,8 @@
+#burgerImage{
+    width: 100%;
+    height: 50vh;
+    background-image: url(burger2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
